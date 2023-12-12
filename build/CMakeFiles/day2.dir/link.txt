@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/day2.dir/days/day_2.c.o -o day2  libdays.a liblibs.a 

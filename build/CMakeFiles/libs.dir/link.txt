@@ -1,2 +1,0 @@
-/usr/bin/ar qc liblibs.a CMakeFiles/libs.dir/libs/array.c.o CMakeFiles/libs.dir/libs/slice.c.o
-/usr/bin/ranlib liblibs.a

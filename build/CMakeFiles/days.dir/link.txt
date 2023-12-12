@@ -1,2 +1,0 @@
-/usr/bin/ar qc libdays.a CMakeFiles/days.dir/days/day_2.c.o CMakeFiles/days.dir/days/day_3.c.o
-/usr/bin/ranlib libdays.a
