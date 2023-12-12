@@ -1,0 +1,6 @@
+/home/williamfong/Documents/Projects/advent/build/CMakeFiles/days.dir
+/home/williamfong/Documents/Projects/advent/build/CMakeFiles/libs.dir
+/home/williamfong/Documents/Projects/advent/build/CMakeFiles/day2.dir
+/home/williamfong/Documents/Projects/advent/build/CMakeFiles/day3.dir
+/home/williamfong/Documents/Projects/advent/build/CMakeFiles/edit_cache.dir
+/home/williamfong/Documents/Projects/advent/build/CMakeFiles/rebuild_cache.dir

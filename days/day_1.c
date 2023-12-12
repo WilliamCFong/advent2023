@@ -158,7 +158,7 @@ int findNumbersAsStrings(const char* BUFFER) {
 
 int main(int argc, char** argv) {
 
-    const char BUFFER[1024];
+    char BUFFER[1024];
     int sum = 0;
 
     while (scanf("%s\n", BUFFER) != EOF) {
