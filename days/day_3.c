@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
 
     for (int i=0; i < symbols.size; i++) {
         SpacialSymbol *data = symbols.data;
-        printf("%c\n", data[i].symbol);
+        printf("%c: %d %d\n", data[i].symbol, data[i].x, data[i].y);
     }
 
     freeArray(&numbers);
